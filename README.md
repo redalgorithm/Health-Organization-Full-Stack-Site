@@ -3,7 +3,7 @@ This site is running, but is currently incomplete.  I have spent the past couple
 ______________________________________________________________________________________________________________________________
 
 *It is definitely in need of an update.  This is low quality programming at its finest...
-
+*Database missing necessary locking strategies
 ______________________________________________________________________________________________________________________________
 
 If you would like to visit this site, copy and paste this into your address bar: http://callisto.lasierra.edu/scurtis
