@@ -3,9 +3,9 @@ This site is running, but is currently incomplete.  I have spent the past week d
 
 Key things to consider for the next update:
 ______________________________________________________________________________________________________________________________
-*Need to implement strategies for XSS prevention 
-*Need to implement more secure handling of sessions
-*Database missing necessary locking strategies
+*Need to implement strategies for XSS prevention  <br/>
+*Need to implement more secure handling of sessions <br/>
+*Database missing necessary locking strategies <br/>
 ______________________________________________________________________________________________________________________________
 
-If you would like to visit this site, feel free to copy and paste the following URL into your address bar: http://callisto.lasierra.edu/scurtis
+If you would like to visit this site, feel free to copy and paste the following URL into your address bar:<br/> http://callisto.lasierra.edu/scurtis
