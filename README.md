@@ -6,6 +6,11 @@ ________________________________________________________________________________
 *Need to implement strategies for XSS prevention  <br/>
 *Need to implement more secure handling of sessions <br/>
 *Database missing necessary locking strategies <br/>
+*Create a more readable and efficient coding environment <br/>
+<br/>
+Additional considerations: <br/>
+*SEO <br/>
+*Implement a more appealing interface <br/>
 ______________________________________________________________________________________________________________________________
 
 If you would like to visit this site, feel free to copy and paste the following URL into your address bar:<br/> http://callisto.lasierra.edu/scurtis
